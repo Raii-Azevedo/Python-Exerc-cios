@@ -1,0 +1,7 @@
+print ('EX 004. Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas a s informações possíveis sobre ele')
+x = input('Digite algo: ')
+print (f'É Alfabético? {x.isalpha()}')
+print (f'É Numérico? {x.isnumeric()}')
+print (f'Possui espaço? {x.isspace()}')
+print (f'Está em minúsculo? {x.islower()}')
+print (f'Está em maiúsculo? {x.isupper()}')
