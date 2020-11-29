@@ -53,7 +53,10 @@ EX 023. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada 
 EX 024. Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome ‘SANTO’
 
 EX 025. Crie um programa que leia o nome de uma pessoa e diga se ela tem ‘SILVA’ no nome.
-EX 026. Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra ‘A’ Em que posição ela aparece a primeira vez Em que posição ela aparece a última vez27. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza primeiro = Ana último = Souza
+
+EX 026. Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra ‘A’ Em que posição ela aparece a primeira vez Em que posição ela aparece a última vez
+
+EX 027. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza primeiro = Ana último = Souza
 
 EX 028. Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
