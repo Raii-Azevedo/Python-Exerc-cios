@@ -2,7 +2,7 @@
 É uma coleção com exercícios resolvidos de Python que fiz com intuito de praticar a linguagem e disponibilizar resultados para iniciantes.
  A lista de Exercícios resolvidos é a seguinte:
  
- EXERCÍCIOS RESOLVIDO – PYTHON
+ EXERCÍCIOS RESOLVIDOS – PYTHON
 
 EX 001. Crie um programa que escreva “Olá, Mundo” na tela
 
@@ -40,9 +40,9 @@ EX 017. Faça um programa que leia o comprimento do cateto oposto e do cateto ad
 
 EX 018. Faça um programa que leia um ângulo qualquer a mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 
-EX 019. Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos.
+EX 019. Um professor quer sortear um dos seus quatro alunos para apagar o quadro.  Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido 
 
-EX 020. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+EX 020 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 
 EX 021. Faça um programa em python que abra e reproduza o áudio de um arquivo MP3.
 
