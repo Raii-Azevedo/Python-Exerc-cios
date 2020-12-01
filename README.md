@@ -73,3 +73,53 @@ EX 033. Faça um programa que leia três números e mostre qual é o maior e qua
 EX 034. Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
 
 EX 035. Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+EX 036 – Escreva um programa para aprovar um empréstimo bancário para uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
+
+EX 037 – (Converter bases) Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão.
+1- binário
+2- octal
+3- hexadecimal.
+
+EX 038 – Escreva um programa que leia dois números inteiros e os compare mostrando na tela a seguinte mensagem:
+- O primeiro valor é maior.
+- O segundo valor é maior.
+- Não existe valor maior, os dois são iguais.
+
+EX 039 – Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
+- Se ele ainda vai se alistar.
+- Se é hora de se alistar.
+- Se já passou da hora de se alistar.
+O programa deve informar quanto tempo falta/passou para o prazo de alistamento.
+
+EX 040 – Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+- Média abaixo de 5,0 (REPROVADO)
+- Média entre 5,0 e 6,9 (RECUPERAÇÃO)
+- Média 7,0> (APROVADO)
+
+EX 041 – A Confederação nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria de acordo com a idade:
+- Até 9 anos: MIRIM
+- Até 14 anos: INFANTIL
+- Até 19 anos: JUNIOR
+- Até 20 anos: SÊNIOR
+- Acima: MASTER.
+
+EX 042 – Refaça o EX 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado.
+- Equilátero: Todos os lados iguais.
+- Isósceles: Dois lados iguais.
+- Escaleno: Todos os lados diferentes.
+
+EX 043 – Desenvolva uma lógica que leia o peso e altura de uma pessoa, calcule o seu IMC e mostre seus status, de acordo com a tabela abaixo:
+- Abaixo de 18,5 > Abaixo do peso.
+- Entre 18,5 e 25 > Peso ideal.
+- 25 até 30 > Sobrepeso.
+- 30 a 40 > Obesidade.
+- Acima de 40 > Obesidade mórbida.
+
+EX 044 – Elabore um programa que calcule um valor a ser pago pelo produto, considerando seu preço normal e condição de pagamento:
+- A vista dinheiro/cheque: 10% de desconto.
+- A vista no cartão: 5% de desconto.
+- Em até 2x no cartão: preço normal.
+- 3x ou mais no cartão: 20% de juros.
+
+EX 045 – Crie um programa que faça o computador jogar Jokenpô com você.
